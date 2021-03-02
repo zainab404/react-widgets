@@ -11,7 +11,6 @@ const items = [
   {title: "Why use React?", content: "React is a favorite JS library amongst engineers"}, // 1
   {title: "How do you use React?", content: "You use React by creating components"}
 ];
-// ^^^ how come this list is in this file and not the accordion file?
 
 const options = [
   {
